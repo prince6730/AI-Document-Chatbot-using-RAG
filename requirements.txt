@@ -1,10 +1,12 @@
 streamlit
+python-dotenv
+pypdf
 langchain
+langchain-core
 langchain-community
 langchain-openai
 langchain-chroma
 langchain-text-splitters
 langchain-huggingface
-pypdf
+langchain-groq
 sentence-transformers
-python-dotenv
